@@ -36,6 +36,10 @@
 * `pointful`: Tool for refactoring expressions into pointfull form -
   ([github](https://github.com/23Skidoo/pointful),
   [hackage](http://hackage.haskell.org/package/pointful))
+* `haskell-tools`: Haskell-tools Refact, a refactoring framework.
+  ([github](https://github.com/haskell-tools/haskell-tools),
+   [hackage](https://hackage.haskell.org/package/haskell-tools-daemon),
+   [website](http://haskelltools.org/))
 * `hfmt`: Code reformatter, using hlint, hindent, and stylish-haskell -
   ([hackage](http://hackage.haskell.org/package/hfmt),
   [github](https://github.com/danstiner/hfmt))
